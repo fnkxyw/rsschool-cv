@@ -13,7 +13,7 @@
 * I like programming and developing 
 
 ## Skills
-* I have basic knowledge of C.
+* I have basic knowledge of C
 
 ## Education
 * I am currently studying at the Moscow Engineering Physics Institute (MEPI)
